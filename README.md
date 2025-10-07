@@ -15,3 +15,13 @@ timm==0.9.12
 
 If you find the repo helpful, please cite our paper.
 
+```txt
+@inproceedings{zhou2024refining,
+  title={Refining intraocular lens power calculation: A multi-modal framework using cross-layer attention and effective channel attention},
+  author={Zhou, Qian and Zou, Hua and Wang, Zhongyuan and Jiang, Haifeng and Wang, Yong},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={754--763},
+  year={2024},
+  organization={Springer}
+}
+```
